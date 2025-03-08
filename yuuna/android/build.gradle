@@ -33,5 +33,4 @@ tasks.register("clean", Delete) {
 }
 
 ext {
-    flutterFFmpegPackage = "full-gpl-lts"
 }
